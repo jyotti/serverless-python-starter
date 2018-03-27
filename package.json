@@ -1,0 +1,17 @@
+{
+  "name": "serverless-python-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jyotti",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-dynamodb-local": "^0.2.28",
+    "serverless-python-requirements": "^4.0.0",
+    "serverless-wsgi": "^1.4.7"
+  }
+}
